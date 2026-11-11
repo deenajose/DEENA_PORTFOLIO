@@ -4,7 +4,7 @@ Personal portfolio website showcasing my AI/ML projects, skills, education, and 
 
 ## Portfolio
 
-View the live site: https://YOUR-GITHUB-USERNAME.github.io/portfolio/
+View the live site: https://deenajose.github.io/portfolio/
 
 ## Files
 
