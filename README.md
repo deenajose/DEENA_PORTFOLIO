@@ -12,6 +12,9 @@
 - `assets/cutout.webp` – photo with transparent background (Hero, behind the big text)
 - `assets/resume.pdf` – the "Download CV" file
 
+## PORTFOLIO LINK
+Visit the link: https://deenajose.github.io/DEENA_PORTFOLIO/
+
 ## Replace with your own details (search in index.html)
 - Name: `Deena Jose`
 - Email: `deenajoseph28@gmail.com`   Phone: `+91 90741 01453`
