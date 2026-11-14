@@ -1,26 +1,21 @@
-# Deena Jose — AI & ML Engineer
+# Portfolio
 
-Personal portfolio website showcasing my AI/ML projects, skills, education, and experience.
+## Run in VS Code
+1. File > Open Folder > select this folder.
+2. Install the "Live Server" extension, right-click `index.html` > Open with Live Server.
 
-## Portfolio
+## Structure
+- `index.html`  – all content (text, links, projects)
+- `css/style.css` – colours (top `:root`), fonts, layout
+- `js/script.js`  – contact form (opens your email app)
+- `assets/photo.jpg` – normal photo (About + Contact)
+- `assets/cutout.webp` – photo with transparent background (Hero, behind the big text)
+- `assets/resume.pdf` – the "Download CV" file
 
-View the live site: https://deenajose.github.io/DEENA_PORTFOLIO/
-
-## Files
-
-- `index.html` — portfolio content and links
-- `css/style.css` — layout, colors, and styling
-- `js/script.js` — page interactions
-- `assets/profess_photo_deena.png` — hero photo
-- `assets/profess photo.jpeg` — About and Contact photos
-- `assets/DeenaJose_resume.pdf` — downloadable resume
-
-## Run locally
-
-Open `index.html` with the Live Server extension in VS Code.
-
-## Contact
-
-- Email: deenajoseph28@gmail.com
-- LinkedIn: https://linkedin.com/in/deenajose
-- GitHub: https://github.com/deenajose
+## Replace with your own details (search in index.html)
+- Name: `Deena Jose`
+- Email: `deenajoseph28@gmail.com`   Phone: `+91 90741 01453`
+- Links: `github.com/deenajose`, `linkedin.com/in/deenajose`
+- Projects: each `<a class="card" href="...">` -> put the project's repo/demo link
+- Photo: overwrite `assets/photo.jpg` and `assets/cutout.webp` (keep the same names)
+- Colours: `--lime`, `--org` in `css/style.css`
